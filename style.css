@@ -219,7 +219,7 @@
 
 /* content section start  */
 .content{
-    background-image: url(bg-img.jpg);
+    background-image: url(./bg-img.jpg);
     background-size: cover;
     width: 99%;
     height: 170px;
